@@ -1,7 +1,7 @@
 # xplaysuspend
 ## Cara Pakai
 
-
+Masuk kedalam desktop mode
 Buka Terminal lalu jalankan perintah berikut:  
 ````bash
 sudo curl -o setup-disable-xhci-wake.sh https://raw.githubusercontent.com/RahmatSamsudin/xplaysuspend/main/setup-disable-xhci-wake.sh
