@@ -17,6 +17,6 @@ sudo ./setup-disable-xhci-wake.sh
 ✅ Reloads systemd.  
 ✅ Menyalakan dan menjalankan service yang dibuat.
 
-Sekarang xplay pakai bazzite bisa di suspend deh pakai tombol power. untuk tombol lain buat bangunin devicenya. 🚀😎  
+Sekarang xplay pakai bazzite bisa di suspend deh pakai tombol power. untuk tombol lain gak bisa ya buat bangunin devicenya. 🚀😎  
 
 ## DO IT AT YOUR OWN RISK ya Gaes.
